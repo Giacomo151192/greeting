@@ -4,8 +4,8 @@ kind: Service
 metadata:
   annotations:
     app.openshift.io/vcs-url: <<unknown>>
-    app.quarkus.io/commit-id: 125dcbe244f40d9b621e405a98f8b8719351a696
-    app.quarkus.io/build-timestamp: 2023-06-28 - 14:54:06 +0000
+    app.quarkus.io/commit-id: e198a77f790d3cc7144e2c9f6b2042d413704643
+    app.quarkus.io/build-timestamp: 2023-06-28 - 15:13:58 +0000
   labels:
     app.kubernetes.io/name: code-with-quarkus
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -44,8 +44,8 @@ kind: ImageStream
 metadata:
   annotations:
     app.openshift.io/vcs-url: <<unknown>>
-    app.quarkus.io/commit-id: 125dcbe244f40d9b621e405a98f8b8719351a696
-    app.quarkus.io/build-timestamp: 2023-06-28 - 14:54:06 +0000
+    app.quarkus.io/commit-id: e198a77f790d3cc7144e2c9f6b2042d413704643
+    app.quarkus.io/build-timestamp: 2023-06-28 - 15:13:58 +0000
   labels:
     app.kubernetes.io/name: code-with-quarkus
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -61,8 +61,8 @@ kind: BuildConfig
 metadata:
   annotations:
     app.openshift.io/vcs-url: <<unknown>>
-    app.quarkus.io/commit-id: 125dcbe244f40d9b621e405a98f8b8719351a696
-    app.quarkus.io/build-timestamp: 2023-06-28 - 14:54:06 +0000
+    app.quarkus.io/commit-id: e198a77f790d3cc7144e2c9f6b2042d413704643
+    app.quarkus.io/build-timestamp: 2023-06-28 - 15:13:58 +0000
   labels:
     app.kubernetes.io/name: code-with-quarkus
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -87,8 +87,8 @@ kind: DeploymentConfig
 metadata:
   annotations:
     app.openshift.io/vcs-url: <<unknown>>
-    app.quarkus.io/commit-id: 125dcbe244f40d9b621e405a98f8b8719351a696
-    app.quarkus.io/build-timestamp: 2023-06-28 - 14:54:06 +0000
+    app.quarkus.io/commit-id: e198a77f790d3cc7144e2c9f6b2042d413704643
+    app.quarkus.io/build-timestamp: 2023-06-28 - 15:13:58 +0000
   labels:
     app.kubernetes.io/name: code-with-quarkus
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -98,19 +98,19 @@ metadata:
 spec:
   replicas: 1
   selector:
-    app.kubernetes.io/version: 1.0.0-SNAPSHOT
     app.kubernetes.io/name: code-with-quarkus
+    app.kubernetes.io/version: 1.0.0-SNAPSHOT
   template:
     metadata:
       annotations:
         app.openshift.io/vcs-url: <<unknown>>
-        app.quarkus.io/commit-id: 125dcbe244f40d9b621e405a98f8b8719351a696
-        app.quarkus.io/build-timestamp: 2023-06-28 - 14:54:06 +0000
+        app.quarkus.io/commit-id: e198a77f790d3cc7144e2c9f6b2042d413704643
+        app.quarkus.io/build-timestamp: 2023-06-28 - 15:13:58 +0000
       labels:
         app.kubernetes.io/managed-by: quarkus
         app.openshift.io/runtime: quarkus
-        app.kubernetes.io/version: 1.0.0-SNAPSHOT
         app.kubernetes.io/name: code-with-quarkus
+        app.kubernetes.io/version: 1.0.0-SNAPSHOT
     spec:
       containers:
         - env:
