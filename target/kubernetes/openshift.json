@@ -4,8 +4,8 @@
   "metadata" : {
     "annotations" : {
       "app.openshift.io/vcs-url" : "<<unknown>>",
-      "app.quarkus.io/commit-id" : "e198a77f790d3cc7144e2c9f6b2042d413704643",
-      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:13:58 +0000"
+      "app.quarkus.io/commit-id" : "7913627ade885f916ea5d355ce86ba2ef2b037d8",
+      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:21:26 +0000"
     },
     "labels" : {
       "app.kubernetes.io/name" : "code-with-quarkus",
@@ -55,8 +55,8 @@
   "metadata" : {
     "annotations" : {
       "app.openshift.io/vcs-url" : "<<unknown>>",
-      "app.quarkus.io/commit-id" : "e198a77f790d3cc7144e2c9f6b2042d413704643",
-      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:13:58 +0000"
+      "app.quarkus.io/commit-id" : "7913627ade885f916ea5d355ce86ba2ef2b037d8",
+      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:21:26 +0000"
     },
     "labels" : {
       "app.kubernetes.io/name" : "code-with-quarkus",
@@ -77,8 +77,8 @@
   "metadata" : {
     "annotations" : {
       "app.openshift.io/vcs-url" : "<<unknown>>",
-      "app.quarkus.io/commit-id" : "e198a77f790d3cc7144e2c9f6b2042d413704643",
-      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:13:58 +0000"
+      "app.quarkus.io/commit-id" : "7913627ade885f916ea5d355ce86ba2ef2b037d8",
+      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:21:26 +0000"
     },
     "labels" : {
       "app.kubernetes.io/name" : "code-with-quarkus",
@@ -113,8 +113,8 @@
   "metadata" : {
     "annotations" : {
       "app.openshift.io/vcs-url" : "<<unknown>>",
-      "app.quarkus.io/commit-id" : "e198a77f790d3cc7144e2c9f6b2042d413704643",
-      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:13:58 +0000"
+      "app.quarkus.io/commit-id" : "7913627ade885f916ea5d355ce86ba2ef2b037d8",
+      "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:21:26 +0000"
     },
     "labels" : {
       "app.kubernetes.io/name" : "code-with-quarkus",
@@ -134,8 +134,8 @@
       "metadata" : {
         "annotations" : {
           "app.openshift.io/vcs-url" : "<<unknown>>",
-          "app.quarkus.io/commit-id" : "e198a77f790d3cc7144e2c9f6b2042d413704643",
-          "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:13:58 +0000"
+          "app.quarkus.io/commit-id" : "7913627ade885f916ea5d355ce86ba2ef2b037d8",
+          "app.quarkus.io/build-timestamp" : "2023-06-28 - 15:21:26 +0000"
         },
         "labels" : {
           "app.kubernetes.io/managed-by" : "quarkus",
